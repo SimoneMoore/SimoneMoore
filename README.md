@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SimoneMoore
-- 👀 I’m interested in everything!
-- 🌱 I’m currently learning Front End languages
-- 💞️ I’m looking to collaborate on n/a
+- 👀 I’m interested in constantly learning!
+- 🌱 I’m currently mastering Front End 
 - 📫 How to reach me: e-mail!
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I keep Isopods!
