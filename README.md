@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simone M!
 - 👀 I’m interested in research.
-- 🌱 I’m currently learning Javascript REACT.
+- 🌱 I’m currently learning Javascript.
 - 📧 How to reach me: e-mail
 - 🛰️ Pronouns: she/her
 - 🪲 Fun fact: I keep Isopods!
