@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Simone M!
+- 👋 Hi, I’m Simone!
 - 👀 I’m interested in research.
 - 🌱 I’m currently learning Javascript.
 - 📧 How to reach me: e-mail
