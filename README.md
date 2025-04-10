@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Simone!
 - 👀 I’m interested in research.
-- 🌱 I’m currently learning Javascript.
+- 🌱 I’m currently learning Javascript. Beginning to expand to automation scripts using Playwright.
 - 📧 How to reach me: e-mail
 - 🛰️ Pronouns: she/her
 - 🪲 Fun fact: I keep Isopods!
